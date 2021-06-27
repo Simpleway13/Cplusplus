@@ -2,12 +2,13 @@
 
 1. input/ output
 2. repetitive statement
-3. array
-4. string
-5. function
-6. pointer
-7. reference
-8. structured data type
-9. class
-10. file input output
-11. graphical output(maybe?)
+3. conditional statement
+4. array
+5. string
+6. function
+7. pointer
+8. reference
+9. structured data type
+10. class
+11. file input output
+12. graphical output(maybe?)
