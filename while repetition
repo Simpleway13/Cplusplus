@@ -1,0 +1,21 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+  int input;
+  int i = 0;
+  
+  cout << "input: ";
+  cin >> input;
+  
+  while (i < input)
+  {
+    cout << "Hi" << endl;
+    i++;
+  }
+  
+  
+  return 0;
+}
