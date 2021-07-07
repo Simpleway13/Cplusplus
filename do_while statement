@@ -1,0 +1,21 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+
+using namespace std;
+
+
+int main()
+{
+	int index = 0;
+
+	do
+	{
+		cout << "Hi" << endl;
+		
+		index++;
+	} while (index < 5);
+
+
+
+	return 0;
+}
